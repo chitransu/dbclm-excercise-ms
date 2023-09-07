@@ -1,0 +1,2 @@
+insert into nace_details(order_id,code,description,level,parent,reference_to_isic_rev4,ruling,this_item_also_includes,this_item_excludes,this_item_includes) 
+values ('398481','A','AGRICULTURE,FORESTRY AND FISHING','1','','A','','','','This section includes the exploitation of vegetal and animal natural resources, comprising the activities of growing of crops,raising and breeding of animals,harvesting of timber and other plants,animals or animal products from a farm or their natural habitats');
